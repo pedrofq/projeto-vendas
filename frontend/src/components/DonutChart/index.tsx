@@ -50,7 +50,4 @@ function DonutChart() {
 }
 
 export default DonutChart;
-function then(arg0: (response: any) => any, arg1: { console: Console; "": any; }) {
-    throw new Error('Function not implemented.');
-}
 
